@@ -1,8 +1,3 @@
-
-# coding: utf-8
-
-# In[8]:
-
 from ipywidgets import widgets
 from IPython.display import display, Audio
 from IPython.core.display import display, HTML
@@ -12,10 +7,7 @@ from sklearn.neighbors import NearestNeighbors
 import re
 import random
 
-
 # LOAD BUTTONS, CHECKS & SLIDERS.
-
-# In[9]:
 
 def load_interface1():
     instrument = widgets.RadioButtons(
@@ -98,10 +90,7 @@ def load_interface2():
     
     return check1, slider1, check2, slider2, check3, slider3, check4, slider4
 
-
 # DEFINITIONS TO MAKE SAMPLE RETRIEVAL.
-
-# In[10]:
 
 def display_fs_embed(fs_id):
     
@@ -239,10 +228,7 @@ def search_sounds_and_show_results(instrument, category, check1, slider1, check2
     print "Retrieved sound ID: ", ID
     display_fs_embed(ID)
 
-
 # WRITE YOUR PERSONAL DATA
-
-# In[11]:
 
 def load_personal():
     name = widgets.Text(
@@ -267,10 +253,7 @@ def load_personal():
     )
     return name, exp, exp2
 
-
 # QUESTIONS
-
-# In[12]:
 
 def load_questions():
     response1 = widgets.ToggleButtons(
@@ -292,9 +275,3 @@ def load_questions():
             button_style='', # 'success', 'info', 'warning', 'danger' or ''
         )
     return response1, response2, response3
-
-
-# In[ ]:
-
-
-
