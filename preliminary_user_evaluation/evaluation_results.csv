@@ -1,0 +1,77 @@
+,name,experience,years,instrument,category,brightness,depth,hardness,roughness,response1,response2,response3
+1,Albin Andrew Correya,Drummer,More than 5 years,snare,digital,1.0,0.1,,,NOT SURE,NOT SURE,NOT SURE
+2,Albin Andrew Correya,Drummer,More than 5 years,tom,acoustic,0.9,,,,NO,NO,BAD
+3,Albin Andrew Correya,Drummer,More than 5 years,snare,acoustic,1.0,,,1.0,YES,YES,NOT SURE
+4,Albin Andrew Correya,Drummer,More than 5 years,tom,digital,0.0,1.0,1.0,,NO,NO,NOT SURE
+5,Albin Andrew Correya,Drummer,More than 5 years,kick,digital,0.0,1.0,1.0,,YES,YES,BAD
+6,Albin Andrew Correya,Drummer,More than 5 years,snare,acoustic,,,1.0,,NO,NO,GOOD
+7,Albin Andrew Correya,Drummer,More than 5 years,openhh,acoustic,1.0,1.0,,,YES,YES,GOOD
+8,Albin Andrew Correya,Drummer,More than 5 years,closedhh,acoustic,0.0,1.0,,,YES,YES,GOOD
+9,Albin Andrew Correya,Drummer,More than 5 years,snare,digital,1.0,,1.0,1.0,YES,YES,NOT SURE
+10,Albin Andrew Correya,Drummer,More than 5 years,tom,digital,0.9,0.1,0.8,,NO,NO,NOT SURE
+11,Albin Andrew Correya,Drummer,More than 5 years,snare,acoustic,,,,1.0,YES,YES,GOOD
+12,Felipe Loaiciga ,Music Producer,More than 5 years,kick,acoustic,0.3,0.7,1.0,0.0,YES,YES,GOOD
+13,Felipe Loaiciga,Music Producer,More than 5 years,kick,acoustic,1.0,1.0,0.1,0.8,YES,YES,GOOD
+14,Felipe Loaiciga,Music Producer,More than 5 years,kick,digital,0.0,1.0,0.9,0.3,YES,NO,BAD
+15,Felipe Loaiciga,Music Producer,More than 5 years,kick,digital,0.8,0.3,0.8,0.2,YES,NO,BAD
+16,Felipe Loaiciga,Music Producer,More than 5 years,tom,acoustic,0.1,1.0,0.9,0.0,YES,NO,BAD
+17,Felipe Loaiciga,Music Producer,More than 5 years,tom,acoustic,1.0,0.1,1.0,0.8,YES,NO,BAD
+18,Felipe Loaiciga,Music Producer,More than 5 years,tom,digital,0.0,0.0,1.0,0.0,NO,NO,GOOD
+19,Felipe Loaiciga,Music Producer,More than 5 years,tom,digital,0.1,0.9,0.1,0.9,NO,NO,BAD
+20,Felipe Loaiciga,Music Producer,More than 5 years,openhh,acoustic,1.0,0.2,1.0,0.0,YES,YES,GOOD
+21,Felipe Loaiciga,Music Producer,More than 5 years,openhh,acoustic,1.0,1.0,1.0,0.0,YES,YES,GOOD
+22,Felipe Loaiciga,Music Producer,More than 5 years,openhh,digital,1.0,0.2,1.0,0.0,YES,YES,GOOD
+23,Felipe Loaiciga,Music Producer,More than 5 years,openhh,digital,1.0,1.0,1.0,0.0,YES,YES,GOOD
+24,Kosmas K,Music Producer,More than 5 years,kick,acoustic,,,,,YES,YES,GOOD
+25,Kosmas K,Music Producer,More than 5 years,kick,digital,,,,,YES,YES,GOOD
+26,Kosmas K,Music Producer,More than 5 years,kick,acoustic,1.0,,,,YES,YES,GOOD
+27,Kosmas K,Music Producer,More than 5 years,kick,digital,1.0,,,,YES,YES,BAD
+28,Kosmas K,Music Producer,More than 5 years,snare,acoustic,1.0,,,,NO,YES,GOOD
+29,Kosmas K,Music Producer,More than 5 years,snare,acoustic,,,0.5,1.0,YES,YES,GOOD
+30,Kosmas K,Music Producer,More than 5 years,snare,digital,0.0,,,,YES,NO,NOT SURE
+31,Kosmas K,Music Producer,More than 5 years,snare,digital,,,,,YES,YES,GOOD
+32,Kosmas K,Music Producer,More than 5 years,closedhh,acoustic,,,,,YES,YES,GOOD
+33,Kosmas K,Music Producer,More than 5 years,closedhh,acoustic,,,0.0,0.5,YES,YES,GOOD
+34,Kosmas K,Music Producer,More than 5 years,closedhh,digital,,,,,YES,YES,GOOD
+35,Kosmas K,Music Producer,More than 5 years,closedhh,digital,1.0,,,,YES,NO,GOOD
+36,Javier Nistal,Music Producer,More than 5 years,kick,acoustic,0.9,,,,YES,YES,GOOD
+37,Javier Nistal,Music Producer,More than 5 years,kick,acoustic,0.0,,,,YES,NO,NOT SURE
+38,Javier Nistal,Music Producer,More than 5 years,kick,digital,0.0,1.0,,,YES,YES,NOT SURE
+39,Javier Nistal,Music Producer,More than 5 years,snare,acoustic,0.0,0.8,,1.0,YES,YES,GOOD
+40,Javier Nistal,Music Producer,More than 5 years,tom,acoustic,0.9,1.0,1.0,,YES,YES,GOOD
+41,Javier Nistal,Music Producer,More than 5 years,snare,digital,1.0,,,1.0,YES,YES,GOOD
+42,Javier Nistal,Music Producer,More than 5 years,tom,digital,0.0,,1.0,,NO,YES,BAD
+43,Javier Nistal,Music Producer,More than 5 years,crash,digital,0.8,1.0,0.9,,YES,YES,GOOD
+44,Javier Nistal,Music Producer,More than 5 years,closedhh,acoustic,0.2,0.2,,,YES,YES,GOOD
+45,Javier Nistal,Music Producer,More than 5 years,tom,digital,0.9,0.7,0.2,0.8,NO,YES,BAD
+46,Pablo Alonso,Music Producer,More than 5 years,kick,digital,,1.0,,,YES,YES,BAD
+47,Pablo Alonso,Music Producer,More than 5 years,tom,acoustic,0.8,,,,YES,YES,GOOD
+48,Pablo Alonso,Music Producer,More than 5 years,kick,digital,1.0,,,,YES,YES,NOT SURE
+49,Pablo Alonso,Music Producer,More than 5 years,openhh,digital,,,,0.8,NO,YES,GOOD
+50,Pablo Alonso,Music Producer,More than 5 years,kick,acoustic,0.1,0.9,,,YES,YES,BAD
+51,Pablo Alonso,Music Producer,More than 5 years,closedhh,acoustic,1.0,,0.2,0.2,YES,YES,GOOD
+52,Pablo Alonso,Music Producer,More than 5 years,snare,acoustic,0.9,0.3,0.8,0.5,NO,YES,NOT SURE
+53,Pablo Alonso,Music Producer,More than 5 years,ride,digital,0.1,,1.0,1.0,NO,YES,NOT SURE
+54,Pablo Alonso,Music Producer,More than 5 years,kick,digital,1.0,0.0,,,YES,YES,BAD
+55,Pablo Alonso,Music Producer,More than 5 years,tom,digital,,,,,NO,YES,NOT SURE
+56,Pedrogogo,Music Producer,More than 5 years,kick,acoustic,1.0,,,,YES,YES,GOOD
+57,Pedrogogo,Music Producer,More than 5 years,snare,acoustic,0.0,,,,YES,YES,GOOD
+58,Pedrogogo,Music Producer,More than 5 years,snare,acoustic,1.0,,,,NO,NO,NOT SURE
+59,Pedrogogo,Music Producer,More than 5 years,openhh,acoustic,0.0,,,,YES,NO,GOOD
+60,Pedrogogo,Music Producer,More than 5 years,openhh,acoustic,1.0,,,,NO,NO,GOOD
+61,Pedrogogo,Music Producer,More than 5 years,closedhh,acoustic,0.0,,,,YES,NO,GOOD
+62,Pedrogogo,Music Producer,More than 5 years,closedhh,acoustic,1.0,,,,YES,NO,GOOD
+63,Pedrogogo,Music Producer,More than 5 years,tom,acoustic,1.0,,,,YES,NO,BAD
+64,Pedrogogo,Music Producer,More than 5 years,tom,acoustic,0.0,,,,NO,NO,BAD
+65,Pedrogogo,Music Producer,More than 5 years,kick,digital,0.0,,,,YES,YES,GOOD
+66,Pedrogogo,Music Producer,More than 5 years,kick,digital,1.0,,,,YES,YES,GOOD
+67,Pere Calopa,Music Producer,More than 5 years,snare,acoustic,0.2,0.7,,,YES,NO,GOOD
+68,Pere Calopa,Music Producer,More than 5 years,openhh,acoustic,,0.8,0.3,,YES,YES,GOOD
+69,Pere Calopa,Music Producer,More than 5 years,tom,acoustic,0.7,0.3,,,YES,YES,GOOD
+70,Pere Calopa,Music Producer,More than 5 years,closedhh,acoustic,,,0.3,0.8,YES,YES,GOOD
+71,Pere Calopa,Music Producer,More than 5 years,closedhh,acoustic,,,0.3,0.8,YES,YES,GOOD
+72,Pere Calopa,Music Producer,More than 5 years,kick,acoustic,0.7,0.7,0.3,,YES,YES,GOOD
+73,Pere Calopa,Music Producer,More than 5 years,snare,acoustic,0.2,,,0.8,YES,YES,GOOD
+74,Pere Calopa,Music Producer,More than 5 years,kick,acoustic,0.1,0.9,,,YES,YES,GOOD
+75,Pere Calopa,Music Producer,More than 5 years,snare,acoustic,,,,0.2,YES,YES,GOOD
+76,Pere Calopa,Music Producer,More than 5 years,closedhh,acoustic,0.8,0.8,,,YES,YES,NOT SURE
