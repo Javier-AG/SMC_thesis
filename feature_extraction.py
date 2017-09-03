@@ -6,7 +6,7 @@ import subprocess
 # FEATURE EXTRACTION using Essentia's Out-of-box Freesound Extractor
 
 # Selection of samples. Change folder and run again!
-folder = 'FOLDER_PATH'
+folder = 'FOLDER_NAME'
 pardir = 'PARENT_DIRECTORY_PATH' + folder + '/'
 filenames = os.listdir(pardir)
 samples = np.array([track for track in filenames if (track[-3:] == 'wav')])
