@@ -1,8 +1,3 @@
-
-# coding: utf-8
-
-# In[2]:
-
 import Timbral_Brightness as bright
 import Timbral_Depth as depth
 import Timbral_Hardness as hard
@@ -11,10 +6,7 @@ import os
 import numpy as np
 import pandas as pd
 
-
 # High-level descriptors calculation
-
-# In[29]:
 
 # Set folders: change source directory 
 pardir = 'DATASET_PATH'
@@ -47,11 +39,6 @@ r_norm = (r1 / max(r1))
     
 #print "Brightness: \n", b, "\n", b_norm, "\n", "Depth: \n", d, "\n", d_norm, "\n", "Hard: \n", h, "\n", h_norm, "\n", "Roughness: \n", r, "\n", r_norm, "\n"
 
-
-# Final CSV (with low and high-level features) creation
-
-# In[30]:
-
 pardir_csv = 'DATASET_PATH'
 path_csv = os.path.join(pardir_csv,folder+"_features.csv")
 df = pd.read_csv(path_csv,index_col=0)
@@ -60,4 +47,3 @@ df['depth'] = d_norm
 df['hardness'] = h_norm
 df['roughness'] = r_norm
 df.to_csv('OUT_DATASET_PATH'+folder+'_descriptors.csv')
-
